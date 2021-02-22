@@ -21,7 +21,7 @@ The statistics window allows you to plot underlying distributions of your create
 This sections allows you to browse the results of CellPhoneDB analysis for signalling between mesenchyme and epithelial across all organs available from our datasets with an interactive interaction heatmap. You can hover over individual tiles of the heatmap in order to highlight specific ligand-receptor pairs and their related pathway/celltype/organ information. When you found a interesting pair you can save this interaction and investigate it further in the Inspector section. Note that you can navigate to specific areas of the heatmap by drawing a rectangular into the selected area. And that it is also possible to filter the interaction pairs for genes of your interest as well as setting the center of the colorscaling to either rowwise or columnwise. 
 
 ![alt text](www/interactions_zoom.png "Interaction heatmap with area selection")
-
+![alt text](www/interactions_heatmap_filter.png "Interaction heatmap filter for genes and color centered by row")
 ### Editor
 The Editor allows you to view and edit all selected interactions from the Browser section as well as add receptor-ligand pairs manually to your selection. 
 ![alt text](www/inspector_editor.png "Editor for interaction pairs")
